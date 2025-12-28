@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "SarkariSahulat",
+    "tagline": "Your Complete Guide to Pakistani Government Services"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "offices": "Offices",
+    "schemes": "Schemes",
+    "about": "About"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try Again",
+    "viewDetails": "View Details",
+    "learnMore": "Learn More",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "download": "Download",
+    "share": "Share",
+    "back": "Back"
+  },
+  "chat": {
+    "title": "Ask Anything About Government Services",
+    "placeholder": "Type your question here...",
+    "send": "Send",
+    "examples": {
+      "title": "Try asking:",
+      "passport": "How do I renew my passport?",
+      "cnic": "What documents do I need for CNIC?",
+      "office": "Where is the nearest NADRA office?"
+    }
+  },
+  "services": {
+    "title": "Government Services",
+    "browse": "Browse Services",
+    "categories": "Categories",
+    "searchPlaceholder": "Search for a service...",
+    "noResults": "No services found",
+    "requirements": "Requirements",
+    "fees": "Fees",
+    "processingTime": "Processing Time",
+    "howToApply": "How to Apply",
+    "onlineAvailable": "Available Online",
+    "trackApplication": "Track Application"
+  },
+  "offices": {
+    "title": "Find Government Offices",
+    "findNearest": "Find Nearest Office",
+    "searchPlaceholder": "Search by city or office type...",
+    "allowLocation": "Allow location access for nearest offices",
+    "distance": "Distance",
+    "getDirections": "Get Directions",
+    "contactInfo": "Contact Information",
+    "timings": "Office Timings",
+    "servicesOffered": "Services Offered"
+  },
+  "schemes": {
+    "title": "Government Schemes",
+    "eligibility": "Eligibility",
+    "benefits": "Benefits",
+    "deadline": "Deadline",
+    "active": "Active Schemes",
+    "checkEligibility": "Check Eligibility"
+  },
+  "tools": {
+    "checklist": {
+      "title": "Document Checklist",
+      "generate": "Generate Checklist",
+      "selectService": "Select a service to generate checklist"
+    },
+    "calculator": {
+      "title": "Fee Calculator",
+      "selectService": "Select a service",
+      "urgency": "Urgency",
+      "total": "Total Cost"
+    },
+    "formHelper": {
+      "title": "Form Helper",
+      "startFilling": "Start Filling Form"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+    "app": {
+        "name": "سرکاری سہولت",
+        "tagline": "پاکستانی سرکاری خدمات کے لیے آپ کی مکمل رہنما"
+    },
+    "nav": {
+        "home": "ہوم",
+        "services": "خدمات",
+        "offices": "دفاتر",
+        "schemes": "اسکیمیں",
+        "about": "ہمارے بارے میں"
+    },
+    "common": {
+        "search": "تلاش کریں",
+        "filter": "فلٹر",
+        "loading": "لوڈ ہو رہا ہے...",
+        "error": "کچھ غلط ہو گیا",
+        "tryAgain": "دوبارہ کوشش کریں",
+        "viewDetails": "تفصیلات دیکھیں",
+        "learnMore": "مزید جانیں",
+        "close": "بند کریں",
+        "save": "محفوظ کریں",
+        "cancel": "منسوخ کریں",
+        "submit": "جمع کرائیں",
+        "download": "ڈاؤن لوڈ کریں",
+        "share": "شیئر کریں",
+        "back": "واپس"
+    },
+    "chat": {
+        "title": "سرکاری خدمات کے بارے میں کچھ بھی پوچھیں",
+        "placeholder": "اپنا سوال یہاں لکھیں...",
+        "send": "بھیجیں",
+        "examples": {
+            "title": "پوچھنے کی کوشش کریں:",
+            "passport": "میں اپنا پاسپورٹ کیسے تجدید کروں؟",
+            "cnic": "شناختی کارڈ کے لیے مجھے کن دستاویزات کی ضرورت ہے؟",
+            "office": "قریب ترین نادرا دفتر کہاں ہے؟"
+        }
+    },
+    "services": {
+        "title": "سرکاری خدمات",
+        "browse": "خدمات براؤز کریں",
+        "categories": "زمرے",
+        "searchPlaceholder": "خدمت تلاش کریں...",
+        "noResults": "کوئی خدمت نہیں ملی",
+        "requirements": "ضروریات",
+        "fees": "فیس",
+        "processingTime": "پروسیسنگ کا وقت",
+        "howToApply": "کیسے اپلائی کریں",
+        "onlineAvailable": "آن لائن دستیاب",
+        "trackApplication": "درخواست ٹریک کریں"
+    },
+    "offices": {
+        "title": "سرکاری دفاتر تلاش کریں",
+        "findNearest": "قریب ترین دفتر تلاش کریں",
+        "searchPlaceholder": "شہر یا دفتر کی قسم سے تلاش کریں...",
+        "allowLocation": "قریب ترین دفاتر کے لیے مقام کی رسائی کی اجازت دیں",
+        "distance": "فاصلہ",
+        "getDirections": "سمت حاصل کریں",
+        "contactInfo": "رابطے کی معلومات",
+        "timings": "دفتری اوقات",
+        "servicesOffered": "پیش کردہ خدمات"
+    },
+    "schemes": {
+        "title": "سرکاری اسکیمیں",
+        "eligibility": "اہلیت",
+        "benefits": "فوائد",
+        "deadline": "آخری تاریخ",
+        "active": "فعال اسکیمیں",
+        "checkEligibility": "اہلیت چیک کریں"
+    },
+    "tools": {
+        "checklist": {
+            "title": "دستاویزات کی فہرست",
+            "generate": "فہرست بنائیں",
+            "selectService": "فہرست بنانے کے لیے خدمت منتخب کریں"
+        },
+        "calculator": {
+            "title": "فیس کیلکولیٹر",
+            "selectService": "خدمت منتخب کریں",
+            "urgency": "فوری ضرورت",
+            "total": "کل لاگت"
+        },
+        "formHelper": {
+            "title": "فارم ہیلپر",
+            "startFilling": "فارم بھرنا شروع کریں"
+        }
+    }
+}
